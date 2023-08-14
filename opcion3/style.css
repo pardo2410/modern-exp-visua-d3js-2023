@@ -1,0 +1,14 @@
+path#linea{
+    fill:none;
+    stroke-width: 1.5px;
+    stroke: #0D1282;
+}
+
+.bar{
+    fill:#0D1282;
+    stroke-width: 2px;
+}
+
+.titles{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}

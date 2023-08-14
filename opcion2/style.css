@@ -1,0 +1,43 @@
+path#linea {
+    stroke-width: 3px;
+    stroke: #0D1282;
+}
+#name{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-top: -5px;
+    margin-left: 200px;
+}
+div{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  
+}
+.bar:hover{
+    stroke: #0D1282;
+    stroke-width: 2
+
+}
+.Gisele_Bündchen{
+    fill:#ff8ed4
+}
+.Bar_Rafaeli{
+    fill:#cd8de5
+}
+.Blake_Lively{
+    fill:#1cabec
+}
+.Erin_Heatherson{
+    fill:#29cce5
+}
+.Toni_Garrn{
+    fill:#5ba4cf
+}
+.Kelly_Rohrbach{
+    fill:#6deca9
+}
+.Nina_Agdal{
+    fill:#7bc86c
+}
+.Camila_Morrone{
+    fill: #ef7564
+}
+
