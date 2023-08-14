@@ -1,5 +1,5 @@
 # Modern Exploration & Visualization - D3.js 🛠️: 
-##Enunciado:
+## Enunciado:
 * Opción 1: Representar la gráfica de barras (verticales u horizontales) y 
 conectarlas al slider para que cada año represente la distribución de 
 mundiales de cada selección. Hay que tratar los datos. 
